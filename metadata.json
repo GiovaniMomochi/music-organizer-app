@@ -1,0 +1,6 @@
+{
+  "name": "Music Organizer",
+  "description": "Um aplicativo funcional para catalogar e organizar nomes de artistas e musicas com recursos de backup e restauracao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
